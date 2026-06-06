@@ -1,18 +1,20 @@
 # python----------stone-paper-scissor-game
 
-<pre> Stone Paper Scissors Game
+<pre>## Stone Paper Scissors Game
 Overview
 
 This is a simple Stone Paper Scissors game built using Python. The project was created to practice Python fundamentals, programming logic, conditional statements, loops, and user interaction.
 
-Features
+##Features
 User vs Computer gameplay
 Random computer choices
 Input validation
 Result declaration (Win, Lose, Draw)
-Technologies Used
+
+##Technologies Used
 Python
-Learning Outcomes
+
+##Learning Outcomes
 
 Through this project, I improved my understanding of:
 
@@ -21,14 +23,14 @@ Loops
 Functions
 Random module
 Basic problem-solving skills
-How to Run
+##How to Run
 Download or clone the repository.
 Open the project folder.
 Run the Python file:
 
 python main.py
 
-Author
+##Author
 
 Aryan Patel
 Aspiring AI & Machine Learning Engineer
