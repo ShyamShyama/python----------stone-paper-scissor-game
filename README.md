@@ -1,6 +1,6 @@
 # python----------stone-paper-scissor-game
 
-<pre>## Stone Paper Scissors Game
+## Stone Paper Scissors Game
 Overview
 
 This is a simple Stone Paper Scissors game built using Python. The project was created to practice Python fundamentals, programming logic, conditional statements, loops, and user interaction.
@@ -35,5 +35,5 @@ python main.py
 Aryan Patel
 Aspiring AI & Machine Learning Engineer
 
-</pre>
+
 
